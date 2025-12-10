@@ -1,4 +1,4 @@
-## Team Members
+## Overview
 
 A simple React app built with Vite that displays a list of team members in stylish cards.  
 Each card shows the member’s photo, name, role, and a short bio.
